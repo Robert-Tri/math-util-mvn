@@ -25,7 +25,7 @@ public class MathUtilityAdvancedTest {
                                {1, 1}, 
                                {2, 2}, 
                                {4, 24}, 
-                               {5, 120}};
+                               {5, 2002}};
         
         return testData;
     }
@@ -45,7 +45,7 @@ public class MathUtilityAdvancedTest {
 //      Viết code chính và viết code test (JUnit, Unit Test) xen kẽ
 //      với nhau, 2 màu XANH ĐỎ LIÊN TỤC DIỄN RA
 
-//DDT: xuwh mở rộng thêm cho quá trình vết code test (JUnit)
+//DDT: sự mở rộng thêm cho quá trình vết code test (JUnit)
 //      Data Driven Testing
 //      kĩ thuật tách bộ test data ra 1 chổ riên, tách vào mảng
 //      tách vào file Excel, hay table; sau đó nhồi/fill/map
